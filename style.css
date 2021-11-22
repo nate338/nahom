@@ -1,4 +1,4 @@
-
+@media only screen and (min-width:300px) and ( max-width:1900px)  {
  *{
         padding: 0;n
         margin: 0;
@@ -135,5 +135,5 @@
       padding-left: 89px;
       margin-top: 40px !important;
   }
-
+}
    
