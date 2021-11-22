@@ -1,0 +1,139 @@
+@media only screen and (min-width:300px) and ( max-width:1000px)  {
+ *{
+        padding: 0;n
+        margin: 0;
+    }
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 1.2;
+    }
+   .top1{
+       color:#ff7dbe;
+       padding-top: 134px;
+   }
+   .top1 h2{
+       font-size: 29px;
+   }
+   .top1 h3{
+       position: relative;
+       -webkit-text-stroke: 0.3vw #323d52;
+       text-transform: uppercase;
+       padding-top: 1px;
+   }
+   #page2::before{
+      top: 0;
+      left: 0;
+   }
+   #page2{
+   padding-top: 6%;
+   padding-left: 11%;
+    word-spacing: 25px;
+     background-image:url(https://draftss.com/blog/wp-content/uploads/2020/03/Hiring-graphic-designers-.jpg);
+     background-size: 100%;
+     height: 55vh;
+     background-repeat: no-repeat;
+
+   }
+   #page2 a{
+     text-decoration: none;
+     color:rgb(255, 255, 255); 
+     
+   }
+   #page2 a:hover{
+       color: cornflowerblue;
+  
+   }
+   .button1{
+    /* border: 5px solid cyan;
+    border-bottom: 9px solid cyan;
+    border-top:9px solid cyan ;
+    border-radius: 5px; */
+    /* background-color: rgb(27, 189, 189); */
+   }
+   .about{
+       margin-top: -260px !important;
+       background-color:#2D304F;
+       background-repeat: no-repeat;
+       background-size: cover;
+       opacity: 0.92;   
+      color: white;
+       height: 30vh;
+   }
+   .about h1{
+       font-size: 23px;
+       color:rgb(255, 255, 255);
+       margin-top:225px !important;
+      padding-left: 85px;
+      padding-top: 11px;
+   }
+   .about p{
+       color: whitesmoke;
+       padding-left: 11px;
+       padding-top: 11px;
+       text-overflow: ellipsis;
+   }
+   .label{
+       color: rgb(0, 0, 0);
+       padding-top:11px;
+       padding-left: 18px;
+       border-radius: 2px solid red;
+   }
+   .btn1{
+       padding-top: 11px;
+       padding-right: 30px;
+       padding-left: 30px;
+       padding-bottom: 11px;
+       color: rgb(14, 71, 194) !important;
+       border-radius: 18px;
+       border:1px solid rgb(19, 182, 211);
+   }
+   .btn1 a:hover{
+       padding-bottom: 19px;
+       color: red!important;
+       margin-left: 57px;
+       text-transform: capitalize;
+   }
+   .btn2{
+       margin-top: 11px;
+    padding-top: 11px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 44px;
+    color: rgb(14, 71, 194) !important; 
+    border-radius: 8px;
+   }
+  .btn4{
+      padding-left: 19px;
+      padding-right: 15px;
+      margin-top: 90px !;
+  }
+  .text{
+      color: rgb(250, 244, 244) !important;
+  }
+  .spcbtn{
+      margin-left: 85px;
+      margin-top: 15px;
+      padding-right: 11px;
+      padding-left: 11px;
+      color: red;
+  }
+  .spcbtn a{
+      text-decoration: none;
+  }
+  .spcbtn a:hover{
+      color: cyan;
+  }
+  .socials a{
+      list-style: none;
+      display: inline-block;
+      justify-content: space-between;
+      padding-left: 70px;
+      padding-top: 13px;
+      color: turquoise;
+  }
+  .ct1{
+      padding-left: 89px;
+      margin-top: 40px !important;
+  }
+}
+   
