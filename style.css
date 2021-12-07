@@ -300,6 +300,7 @@ label.fcf-label {
 input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[type="button"].fcf-btn-block {
     width: 100%;
 }
+}
 @media only screen and (min-width:768px){
     .active {
       font-size: 35px !important;
@@ -336,3 +337,4 @@ input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[typ
         border-radius: 105px;
         font-size: 20px !important;
     }
+}
